@@ -1,4 +1,5 @@
 # Source: https://www.reddit.com/r/uBlockOrigin/comments/fa7ew7/a_complete_list_of_windows_10_telemetry_blocked/
+# This doesn't seem to be working properly in raw format.
 
 0.0.0.0 m.hotmail.com
 0.0.0.0 apps.skype.com
